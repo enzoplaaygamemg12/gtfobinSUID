@@ -3,9 +3,8 @@
 
 **Developed by [strikoder](https://www.youtube.com/@strikoder)**  
 
-
-`gtfobinSUID` is a lightweight Python tool that automates the process of checking binaries discovered during SUID/SGID enumeration against the [GTFOBins](https://gtfobins.github.io) database.  
-It works in both **online** and **offline** modes and can also **update its own local database** (`db.txt`) by scraping GTFOBins automatically.
+`gtfobinSUID`  is a lightweight Python tool for automating SUID/SGID binary enumeration. It compares discovered binaries against the [GTFOBins](https://gtfobins.github.io) database and supports both online and offline modes.
+In offline mode, it uses a local database file (db.txt), which can be automatically updated by scraping the latest entries from GTFOBins.
 
 ## 🎥 Demo
 
@@ -20,18 +19,22 @@ It works in both **online** and **offline** modes and can also **update its own 
 - **Auto-detect** mode: automatically switches to offline when no network
 - **Database updater**: `--update-db` automatically pulls all GTFOBins SUID and Limited SUID entries
 - **Real-time output**: prints `[FOUND]`, `[FOUND - Limited SUID]`, or `[NOT FOUND]` as it processes
-- Minimal, no dependencies beyond `requests`
+- Minimal, no dependencies beyond `requests` *(likely preinstalled on Kali Linux)*
+- [WIP] Add pkexec with CVE detection
+- [WIP] Handle binaries with version suffixes (e.g., python3)
 - Works on Linux, macOS, and Windows
 ---
 
 ## Installation
 
+Use one of these installation methods:
 ```bash
 git clone https://github.com/strikoder/gtfobinSUID.git
 cd gtfobinsuid
 pip install requests
 ```
-Or if you hate cloning like me, you can install only the main python file:
+Or if you hate cloning like me, you can either copy-paste the python code to your machine or download it using wget/curl:
+
 ```bash
 wget -q -O gtfobinsuid.py "https://raw.githubusercontent.com/strikoder/gtfobinSUID/main/gtfobinsuid.py" && chmod +x gtfobinsuid.py
 ```
