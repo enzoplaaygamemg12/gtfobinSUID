@@ -1,3 +1,4 @@
+![gtfobinsuid banner](https://raw.githubusercontent.com/strikoder/gtfobinSUID/main/banner.png)
 # gtfobinSUID
 
 **Developed by [strikoder](https://www.youtube.com/@strikoder)**  
